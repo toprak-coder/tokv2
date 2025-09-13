@@ -19,8 +19,6 @@ The original `tok` by [TomNomNom](https://github.com/tomnomnom/hacks/tree/master
 
 ## Installation
 
-> **Note:** This method requires the project to be hosted in a public Git repository (e.g., on GitHub).
-
 With Go installed, you can install `tokv2` directly from its GitHub repository:
 
 ```bash
